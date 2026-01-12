@@ -63,3 +63,11 @@ GhostNote is being designed for a dual audience:
 ## Current Status
 GhostNote is under long‑term stealth development.  
 This repository documents **product intent** and **privacy philosophy**.
+
+---
+
+## Demonstration Assets
+
+Public demonstration images are provided as privacy-safe architectural flow representations.
+Live application screenshots are intentionally not captured due to enforced privacy protections.
+
